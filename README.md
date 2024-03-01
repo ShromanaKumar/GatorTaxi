@@ -2,9 +2,11 @@
 
 GatorTaxi is an up-and-coming ride-sharing service. They get many ride requests every day and are planning to develop new software to keep track of their pending ride requests.
 
-**A ride is identified by the following triplet:**
+A ride is identified by the following triplet:
 **rideNumber:** unique integer identifier for each ride. 
+
 **rideCost:** The estimated cost (in integer dollars) for the ride. 
+
 **tripDuration:** the total time (in integer minutes) needed to get from pickup to destination.
 
 **The needed operations are**
