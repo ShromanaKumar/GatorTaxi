@@ -8,7 +8,7 @@ A ride is identified by the following triplet:
 **rideCost:** The estimated cost (in integer dollars) for the ride. 
 **tripDuration:** the total time (in integer minutes) needed to get from pickup to destination.
 
-**The needed operations are**
+The needed operations are
 1. **Print(rideNumber)** prints the triplet (rideNumber, rideCost, tripDuration).
 2. **Print(rideNumber1, rideNumber2)** prints all triplets (rx, rideCost, tripDuration) for which rideNumber1 <= rx <= rideNumber2.
 3. **Insert (rideNumber, rideCost, tripDuration)** where rideNumber differs from existing ride numbers.
